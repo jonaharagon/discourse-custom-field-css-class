@@ -1,0 +1,5 @@
+custom_field_mappings:
+  type: list
+  label: "Custom Field Mappings"
+  description: "Configure field key, field value, and CSS class name. Format: field_key, field_value, css_class_name"
+  default: ""

@@ -1,0 +1,8 @@
+{
+  "name": "Custom Field CSS Class",
+  "component": true,
+  "about": "Adds CSS classes to the body tag based on public custom fields. Supports multiselect, boolean, and dropdown user profile fields.",
+  "authors": "Jonah Aragon",
+  "theme_version": "0.0.1",
+  "minimum_discourse_version": "3.1.0"
+}
